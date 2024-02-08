@@ -1,0 +1,6 @@
+.getProduct {
+    display: flex;
+    justify-content: space-between;
+    width:75% ;
+    gap: 1rem;
+}

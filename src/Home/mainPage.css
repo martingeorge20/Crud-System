@@ -1,0 +1,13 @@
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    gap: 2rem;
+}
+.content .card {
+    width: 40%;
+}
+.content img{
+    width:  100%;
+}

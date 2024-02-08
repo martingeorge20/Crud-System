@@ -1,0 +1,35 @@
+.viewContent {
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    justify-content: center;
+}
+.viewContent .RestartAll {
+    display: flex;
+    flex-direction: row-reverse;
+    border: 2px solid gray;
+    width:  80%;
+    padding: 10px;
+    background-color: rgb(210, 210, 210);
+}
+.viewContent  button {
+    width: 15%;
+    font-weight: 400;
+}
+.viewContent ul{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.viewContent ul li div{
+    flex-direction: column;
+}
+.viewContent ul li{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+}
+.viewContent ul li div pre strong {
+    font-size: 17.5px;
+}

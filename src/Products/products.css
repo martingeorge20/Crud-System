@@ -1,0 +1,49 @@
+.enterDetails {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    gap: 1rem;
+}
+.enterDetails  input {
+    max-width: 50%;
+    border: gray 2px solid;
+    box-shadow: 0 0 5px gray ;
+    text-align: center;
+    color: gray;
+    font-size:large;
+    font-weight: 500;
+}
+input[type="radio"]:checked{
+    background-color:gray;
+    box-shadow: none;
+    border: solid 1px gray;
+}
+.enterDetails input:focus {
+    box-shadow: 0 0 20px gray;
+    border: solid 1px gray;
+}
+.enterDetails button {
+    font-size: large;
+    font-weight: 500;
+    width: 50%;
+    border: 1px solid rgb(65, 65, 65);
+}
+.enterDetails input::placeholder {
+    color: gray;
+    font-weight: 600;
+    font-size: large;
+}
+.radios{
+    width: 50%;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+.numberInputs {
+    display: flex;
+    justify-content: space-between;
+    width:75% ;
+    gap: 1rem;
+}
