@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/martingeorge20/Crud-System.git/static/css/main.9ce27ce4.css",
+    "main.js": "/martingeorge20/Crud-System.git/static/js/main.3d14d5bb.js",
+    "static/js/787.917857b7.chunk.js": "/martingeorge20/Crud-System.git/static/js/787.917857b7.chunk.js",
+    "static/media/pngtree-laptop-in-store-with-shelves-and-display-screen-picture-image_2759144.jpg": "/martingeorge20/Crud-System.git/static/media/pngtree-laptop-in-store-with-shelves-and-display-screen-picture-image_2759144.8a11d6da3ef8e495f577.jpg",
+    "static/media/BENT0157_BENTALL_CENTRE_WEBSITE_Bentalls_Brands167.jpg": "/martingeorge20/Crud-System.git/static/media/BENT0157_BENTALL_CENTRE_WEBSITE_Bentalls_Brands167.4407b9d8cc5bca9b1214.jpg",
+    "static/media/capsule_616x353.jpg": "/martingeorge20/Crud-System.git/static/media/capsule_616x353.81ef310d3ef3feb60669.jpg",
+    "index.html": "/martingeorge20/Crud-System.git/index.html",
+    "main.9ce27ce4.css.map": "/martingeorge20/Crud-System.git/static/css/main.9ce27ce4.css.map",
+    "main.3d14d5bb.js.map": "/martingeorge20/Crud-System.git/static/js/main.3d14d5bb.js.map",
+    "787.917857b7.chunk.js.map": "/martingeorge20/Crud-System.git/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ce27ce4.css",
+    "static/js/main.3d14d5bb.js"
+  ]
+}
